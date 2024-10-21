@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://library.sportingnews.com/styles/crop_style_16_9_mobile/s3/2024-10/2024_FTR_Ohtani_Judge_WS_v2.png?h=920929c4&itok=M9cj8_3V");
+    background-size: cover;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    
+
+}
+
+.counter-inner {
+    align-items: center;
+    max-width: 200px;
+    margin: auto;
+    border: 1px solid grey;
+    border-radius: .75em;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    background-color: #00000080;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
